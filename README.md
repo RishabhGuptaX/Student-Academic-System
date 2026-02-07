@@ -79,6 +79,7 @@ Student-Academic-System/
 ├── students.csv           # Generated dataset (optional)
 
 ▶️ How to Run the Project
+
 1️⃣ Install dependencies
 pip install -r requirements.txt
 
